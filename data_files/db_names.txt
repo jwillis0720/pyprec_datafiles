@@ -5,9 +5,9 @@ Practice Database, test_database
 #Donor 6471_1, d6471_H275NBCXX
 #Donor 6471_2, d6471_H27JYBCXX
 #Donor 6471_HCDR3, d6471_HCDR3
-Donor 1 NextSeq Unique (2757), d2757_HCDR3_uniq 
-Donor 2 NextSeq Unique (5409), d5409_HCDR3_uniq 
-Donor 3 NextSeq Unique (5684), d5684_HCDR3_uniq 
-Donor 4 NextSeq Unique (6471), d6471_HCDR3_uniq 
-Donor 3 HiSeq Unique (5684), d5684_HiSeq_uniq 
-Donor 4 HiSeq Unique (6471), d6471_HiSeq_uniq 
+Donor 1 NextSeq Unique (2757), d2757_HCDR3_uniq
+Donor 2 NextSeq Unique (5409), d5409_HCDR3_uniq
+Donor 3 NextSeq Unique (5684), d5684_HCDR3_uniq
+Donor 4 NextSeq Unique (6471), d6471_HCDR3_uniq
+Donor 3 HiSeq Unique (5684), d5684_HiSeq_uniq
+Donor 4 HiSeq Unique (6471), d6471_HiSeq_uniq

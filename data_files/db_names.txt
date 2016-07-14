@@ -12,4 +12,4 @@ Donor 3 NextSeq Unique (5684), d5684_HCDR3_uniq
 Donor 4 NextSeq Unique (6471), d6471_HCDR3_uniq
 Donor 3 HiSeq Unique (5684), d5684_HiSeq_uniq
 Donor 4 HiSeq Unique (6471), d6471_HiSeq_uniq
-Kymab Mouse C - Heavy, kymab_mouse_e_heavy
+Kymab Mouse C - Heavy, kymab_mouse_c_heavy

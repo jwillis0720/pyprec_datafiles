@@ -12,7 +12,12 @@ Donor 3 NextSeq Unique (5684), d5684_HCDR3_uniq
 Donor 4 NextSeq Unique (6471), d6471_HCDR3_uniq
 Donor 3 HiSeq Unique (5684), d5684_HiSeq_uniq
 Donor 4 HiSeq Unique (6471), d6471_HiSeq_uniq
-Kymab Mouse C - Heavy, kymab_mouse_c_heavy
-Kymab Mouse E - Heavy, kymab_mouse_e_heavy
-Kymab Mouse C - Light, kymab_mouse_c_light
-Kymab Mouse E - Light, kymab_mouse_e_light
+Kymab Mouse C - Heavy - First Sequencing, kymab_mouse_c_heavy
+Kymab Mouse E - Heavy - First Sequencing, kymab_mouse_e_heavy
+Kymab Mouse C - Light - First Sequencing, kymab_mouse_c_light
+Kymab Mouse E - Light - First Sequencing, kymab_mouse_e_light
+Kymab Kappa Lymph Nodes, KMDK29_LN
+Kymab Kappa Spleen, KMDK29_Spleen
+Kymab Lambda Lymph Nodes, KMDL55_LN
+Kymab Lambda Spleen, KMDL55_Spleen
+

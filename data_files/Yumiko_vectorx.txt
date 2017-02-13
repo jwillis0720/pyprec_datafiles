@@ -1,4 +1,4 @@
-vectors = [
+[
     {
         'vector': 'pET298',
         'upstream_rs': 'Ndel',
